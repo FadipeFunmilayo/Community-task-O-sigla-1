@@ -1,0 +1,77 @@
+.info {
+    padding: 12px 8px 250px;
+    align-content: center;
+    background-color: rgb(232, 240, 241);
+    margin: auto;
+    width: 50%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-sizing: 80%;
+    
+}                  
+/* Style the header */
+.header {
+    background-color: white;
+    padding: 15px 30px 40px;
+    text-align: left;
+    margin-top: 50px;
+    font-family: sans-serif;
+    margin-left: 100px;
+    margin-right: 110px;
+    font-size: 12px;
+  }
+                                                                                                                                                                                                                                                                                                                                                                                                                                          
+/* Create two columns/boxes that floats next to each other */
+    .text {
+    float: left;
+    background: rgb(108, 199, 199);
+    padding: 30px;
+    margin-right: 50px;
+    width: 180px;
+    margin-bottom: 40px;
+    font-size: 7.4px;
+    font-family: sans-serif;
+    color: white;
+  }
+
+   
+    .article {
+    float: left;
+    padding: 35px;
+    background-color: rgb(43, 180, 167);
+    width: 153px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    font-size:8.3px;
+    font-family: sans-serif;
+    color: white;
+  }
+  
+  
+    .button {               
+    width: 104%;
+    background-color:rgb(208, 211, 46);
+    padding: 13px 32px;
+    size: 10%;
+    border: none;
+    color: white;
+    font-size: 9px; 
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;   
+    margin: auto;
+    display: block;          
+}
+    .fig {
+    color: turquoise;
+    
+}
+    .data {
+        color: yellowgreen;
+       
+}
+    .col {
+        color: rgb(205, 209, 219);
+    }
